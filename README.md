@@ -18,6 +18,7 @@ Used Tool (LeetHub v2)
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Used Tool (LeetHub v2)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +50,7 @@ Used Tool (LeetHub v2)
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +68,12 @@ Used Tool (LeetHub v2)
 |  |
 | ------- |
 | [0274-h-index](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
