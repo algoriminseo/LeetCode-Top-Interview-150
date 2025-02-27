@@ -36,12 +36,14 @@ Used Tool (LeetHub v2)
 | [0088-merge-sorted-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
@@ -86,4 +88,8 @@ Used Tool (LeetHub v2)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
