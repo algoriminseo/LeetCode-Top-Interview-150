@@ -4,10 +4,12 @@
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        hash_table = {}
+        seen = set()
         for i in nums:
-            if i in hash_table.keys():
+            if i in seen:
                 return True
-            else :         
-                hash_table[i] = i
+            else:
+                seen.add(i)
+
         return False
+    
