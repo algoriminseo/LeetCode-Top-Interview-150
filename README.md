@@ -18,6 +18,7 @@ Used Tool (LeetHub v2)
 | [0135-candy](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
@@ -34,11 +35,13 @@ Used Tool (LeetHub v2)
 | ------- |
 | [0088-merge-sorted-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
