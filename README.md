@@ -15,6 +15,7 @@ Used Tool (LeetHub v2)
 | [0088-merge-sorted-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0238-product-of-array-except-self) |
@@ -65,6 +66,7 @@ Used Tool (LeetHub v2)
 | [0045-jump-game-ii](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0135-candy) |
 ## Counting Sort
 |  |
 | ------- |
