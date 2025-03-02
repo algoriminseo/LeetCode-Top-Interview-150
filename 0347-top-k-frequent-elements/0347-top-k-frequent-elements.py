@@ -1,3 +1,7 @@
+#Time Complexity : O(nm), where n is length of array, m is the value of k 
+
+#Space Complexity : O(n), where n is length of array. In the worst case, all numbers could be unique and those numbers will be entirely stored in freq_map dictionary.
+
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         freq_map = {}
