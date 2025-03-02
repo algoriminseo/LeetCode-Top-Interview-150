@@ -23,6 +23,7 @@ Used Tool (LeetHub v2)
 | [0217-contains-duplicate](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ Used Tool (LeetHub v2)
 | [0217-contains-duplicate](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,15 +51,18 @@ Used Tool (LeetHub v2)
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -98,4 +103,16 @@ Used Tool (LeetHub v2)
 | ------- |
 | [0049-group-anagrams](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0242-valid-anagram) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
