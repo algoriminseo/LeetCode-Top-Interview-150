@@ -11,8 +11,6 @@ class Solution:
                 zero_count += 1
             else:
                 total_prod *= num
-        
-        
         for i in range(len(res)):
             if nums[i] == 0 and zero_count >= 2:
                 res = [0] * len(nums)
@@ -22,6 +20,6 @@ class Solution:
                 res[i] = total_prod
                 return res
 
-            res[i] = int(total_prod / nums[i])
+            res[i] = total_prod // nums[i]
         return res
 
