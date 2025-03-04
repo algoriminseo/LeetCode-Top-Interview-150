@@ -3,21 +3,25 @@
 
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        length = len(nums)
-
-        result = [1] * length
-
-
-        left = 1
-        for i in range(0, length):
-            result[i] *= left
-            left *= nums[i]
+        res = [0] * len(nums)
+        total_prod = 1
+        zero_count = 0
+        for num in nums:
+            if num == 0:
+                zero_count += 1
+            else:
+                total_prod *= num
         
-        right = 1
-        for i in range(len(nums)-1, -1, -1):
-            result[i] *= right
-            right *= nums[i]
+        
+        for i in range(len(res)):
+            if nums[i] == 0 and zero_count >= 2:
+                res = [0] * len(nums)
+                return res
+            elif nums[i] == 0 and zero_count == 1:
+                res = [0] * len(nums)
+                res[i] = total_prod
+                return res
 
-        return result
-            
+            res[i] = int(total_prod / nums[i])
+        return res
 
