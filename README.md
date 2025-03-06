@@ -10,6 +10,7 @@ Used Tool (LeetHub v2)
 | [0001-two-sum](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0055-jump-game) |
@@ -48,6 +49,7 @@ Used Tool (LeetHub v2)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
@@ -121,4 +123,8 @@ Used Tool (LeetHub v2)
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
