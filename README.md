@@ -34,6 +34,7 @@ Used Tool (LeetHub v2)
 | [0027-remove-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -106,6 +107,7 @@ Used Tool (LeetHub v2)
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
