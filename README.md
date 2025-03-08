@@ -20,6 +20,7 @@ Used Tool (LeetHub v2)
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0217-contains-duplicate) |
@@ -35,6 +36,7 @@ Used Tool (LeetHub v2)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -129,4 +131,8 @@ Used Tool (LeetHub v2)
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0036-valid-sudoku) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
