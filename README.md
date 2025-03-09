@@ -111,6 +111,7 @@ Used Tool (LeetHub v2)
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0242-valid-anagram) |
@@ -138,4 +139,8 @@ Used Tool (LeetHub v2)
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
