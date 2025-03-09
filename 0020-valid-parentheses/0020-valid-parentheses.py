@@ -3,27 +3,15 @@ class Solution:
         # 1 <= s.length <= 10^4
         # s consists of parentheses only '(){}[]'
         stack = []
-        if not s or len(s) == 1:
-            return False
+        hash_map = {")" : "(" , "]": "[", "}" : "{"}
+
         for ch in s:
-            if ch == '(' or ch == '{' or ch == '[':
+            if ch in hash_map:
+                if stack and stack[-1] == hash_map[ch]:
+                    stack.pop()
+                else:
+                    return False
+            else:
                 stack.append(ch)
-            if len(stack) > 0:
-                if stack[-1] == '(' and ch == ')':
-                    stack.pop()
-                elif stack[-1] == '{' and ch == '}':
-                    stack.pop()
-                elif stack[-1] == '[' and ch == ']':
-                    stack.pop() 
-                elif stack[-1] == '[' and (ch == '}' or ch == ")"):
-                    return False
-                elif stack[-1] == '{' and (ch == ')' or ch == "]"):
-                    return False
-                elif stack[-1] == '(' and (ch == '}' or ch == ']'):
-                    return False
-            elif not stack:
-                if ch == ')' or ch == '}' or ch == ']':
-                    return False
-        if not stack:
-            return True
-        return False
+
+        return True if not stack else False
