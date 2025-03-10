@@ -99,6 +99,7 @@ Used Tool (LeetHub v2)
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -143,4 +144,5 @@ Used Tool (LeetHub v2)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
