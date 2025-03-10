@@ -1,3 +1,6 @@
+#Time Complexity : O(nlogn), where n is length of height
+#Space Complexity : O(1), since it does not need extra space
+
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         start = 0
