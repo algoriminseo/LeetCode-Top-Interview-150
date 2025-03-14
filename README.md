@@ -85,6 +85,7 @@ Used Tool (LeetHub v2)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -118,6 +119,7 @@ Used Tool (LeetHub v2)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0242-valid-anagram) |
@@ -151,4 +153,8 @@ Used Tool (LeetHub v2)
 | [0020-valid-parentheses](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/algoriminseo/LeetCode-Top-Interview-150/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
